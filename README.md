@@ -5,4 +5,4 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bullez1337)
 
 Courses im done with:
-Programming 1, python & c# - 6/12/2021 to 18/2/2021 ✔️
+Programming 1, python & c# - 2021-06-12 to 2021-02-18 ✔️
