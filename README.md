@@ -6,3 +6,4 @@
 
 Courses im done with:
 Programming 1, python & c# - 2021-06-12 to 2021-02-18 ✔️
+Administration 1 - 2021-01-17 to 2021-02-21 ✔️
