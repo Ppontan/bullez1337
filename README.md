@@ -3,3 +3,6 @@
 - 🌱 I’m currently learning python, c# and kali linux
 - 📫 How to reach me, discord, Barber bullez#7152 or here on GitHub
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bullez1337)
+
+Courses im done with:
+Programming 1, python & c# - 6/12/2021 to 18/2/2021 ✔️
