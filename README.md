@@ -2,6 +2,8 @@
 - 👀 I’m interested in learning more about coding in general, i'm new and my goal is to work as a pentester :)
 - 🌱 I’m currently learning python, c# and kali linux
 - 📫 You can reach me here on github :)
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bullez1337)
 
 Courses im done with:
