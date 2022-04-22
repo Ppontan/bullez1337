@@ -4,7 +4,7 @@
 - 📫 You can reach me here on github :)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=bullez1337)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ppontan
 
 Courses im done with:
 - Programming 1, python & c# - 2021-06-12 to 2022-02-18 ✔️
